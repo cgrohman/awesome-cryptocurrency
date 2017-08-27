@@ -234,6 +234,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Coin Journal](http://coinjournal.net/)
 * [Coindesk](http://www.coindesk.com/)
 * [Cryptocoinsnews](https://www.cryptocoinsnews.com/)
+* [CryptoPanic](https://cryptopanic.com/)
 * [Forklog](http://forklog.net/)
 * [The Merkle](http://themerkle.com/)
 * [Zero Block](https://zeroblock.com/)
